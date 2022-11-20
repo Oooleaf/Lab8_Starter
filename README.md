@@ -9,7 +9,7 @@
 - Manually run them locally before pushing code
 - Run them all after all development is completed
 
-- Selection: -Within a Github action that runs whenever code is pushed 
+> Selection: -Within a Github action that runs whenever code is pushed 
 
 Because we want to check whether our code run as our expection, run and pass all the automated tests, make this simple and efficient.
 
