@@ -1,14 +1,15 @@
 # Lab 8 - Starter
 
-
+## Name
+    Shuo Wang
 ## Check Your Understanding
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
--Within a Github action that runs whenever code is pushed 
--Manually run them locally before pushing code
--Run them all after all development is completed
+- Within a Github action that runs whenever code is pushed 
+- Manually run them locally before pushing code
+- Run them all after all development is completed
 
-Select: -Within a Github action that runs whenever code is pushed 
+- Selection: -Within a Github action that runs whenever code is pushed 
 
 Because we want to check whether our code run as our expection, run and pass all the automated tests, make this simple and efficient.
 
